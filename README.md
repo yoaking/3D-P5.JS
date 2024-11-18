@@ -1,5 +1,9 @@
 # Proyek p5.js: Bintang 3D
 
+Nama Lengkap : Nugroho Gusti Bintang Fajar
+NIM : 21104410035
+Prodi : TEKNIK INFORMATIKA
+
 Proyek ini adalah visualisasi 3D dari bentuk bintang yang dibuat menggunakan library p5.js. Anda dapat melihat hasilnya langsung melalui tautan berikut:
 
 **[Lihat Hasilnya di Sini](https://editor.p5js.org/nugrohogustibintangfajar/full/AuAZcBsda)**
